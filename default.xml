@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="download"
-fetch="https://github.com/"
+fetch="https://github.com/"/>
 <project path="cm10.1/device/ainol/elf2" name="danishashraf/android_device_ainol_elf2" remote="github" revision="cm-10.1-aml_"/>
 <project path="cm10/device/ainol/elf2" name="danishashraf/android_device_ainol_elf2" remote="github" revision="jellybean-aml"/>
 <project path="cm9/device/ainol/elf2" name="danishashraf/android_device_ainol_elf2" remote="github" revision="ics-aml"/>
